@@ -24,7 +24,7 @@
   */
 
 
-namespace quizaccess_oqylyq\oqylyq;
+namespace quizaccess_oqylyq\local;
 
 require_once(__DIR__ . '/../../vendor/autoload.php');
 
