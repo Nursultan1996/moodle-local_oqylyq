@@ -13,7 +13,7 @@
 
 namespace quizaccess_oqylyq\oqylyq;
 
-class Session implements ICommand {
+class session implements icommand {
     protected $session = [];
 
     public function __construct(array $data = []) {
