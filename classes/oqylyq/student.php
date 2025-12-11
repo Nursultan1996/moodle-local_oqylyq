@@ -13,7 +13,7 @@
 
 namespace quizaccess_oqylyq\oqylyq;
 
-class Student implements ICommand {
+class student implements icommand {
     protected $user = [];
 
     public function __construct(array $data = []) {
